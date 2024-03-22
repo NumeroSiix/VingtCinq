@@ -48,6 +48,8 @@ INSTALLED_APPS = [
     "users",
     # External apps
     "django_extensions",
+    "drf_yasg",
+    'rest_framework',
 ]
 
 
